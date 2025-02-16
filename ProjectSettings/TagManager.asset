@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullet
+  - New tag
+  - Tag
+  - Bullet
+  - bulletTag
+  - Dog
+  - Enemigo
+  - Obstaculo
+  - BulletEnemy
+  - Cobertura
+  - Interruptor
+  - Platform
+  - Escaleras
+  - Destructor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - enemyLayer
+  - Water
+  - UI
+  - DOG
+  - Obstaculo
+  - Base
+  - Cobertura
+  - Player
+  - ref
+  - Platform
+  - bulletLayer
+  - Elementos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
